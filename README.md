@@ -1,3 +1,3 @@
 # hello
 setting Up Git
-author--dipika patel
+author--dipika patel-rupal
